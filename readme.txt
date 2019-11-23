@@ -5,6 +5,7 @@ Git tracks changes of files.
 
 testtest
 
-Creating a new branch is slow and difficult
+Creating a new branch is fast and simple
+
 
 
