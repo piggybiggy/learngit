@@ -5,7 +5,7 @@ Git tracks changes of files.
 
 testtest
 
-Creating a new branch is fast
+Creating a new branch is
 
 
 
