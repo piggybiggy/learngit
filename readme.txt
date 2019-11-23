@@ -5,8 +5,12 @@ Git tracks changes of files.
 
 testtest
 
+<<<<<<< HEAD
 Creating a new branch is
 
+=======
+Creating a new branch is fast and simple hdhakhdk
+>>>>>>> feature2
 
 
 
